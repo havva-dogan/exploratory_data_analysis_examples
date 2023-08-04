@@ -1,1 +1,1 @@
-# exploratory_data_analysis_examples
+# EDA_basic_sales_and_advertisement
